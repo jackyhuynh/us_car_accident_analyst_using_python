@@ -1,13 +1,9 @@
 # TEMPLATE for JUPITER notebook
 
 ## Introduction
- Simply introduce the project that specically built with Jupiter Notebook. 
-I believe the simplier the Readme file, the easier to read.
-- You can also keep this private and organize this GitHub as a private libary for yourself.
-<img src="https://github.com/jackyhuynh/template-git-jupiter-notebook-md/blob/main/images/instruction.JPG">
-
+- [Spotify's API](https://developer.spotify.com/documentation/web-api/)
+- Spotipy is a nice Python library to access the [Spotify APIs through Python](https://spotipy.readthedocs.io/en/2.19.0/)
 ## Documents/Research Paper
-Link your research paper <a href="https://github.com/jackyhuynh/template-git-jupiter-notebook-md/blob/main/documents/resarch-sample.pdf">here</a> if you need
 
 ## Technology
 List of technology
